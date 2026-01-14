@@ -1,0 +1,4 @@
+current_plan,customers,churned,churn_rate
+Basic,160,111,0.69375
+Enterprise,180,131,0.7277777777777777
+Pro,160,110,0.6875

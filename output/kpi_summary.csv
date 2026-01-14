@@ -1,0 +1,6 @@
+Metric,Value
+Total Customers,500.0
+Churned Customers,352.0
+Overall Churn Rate,0.704
+Average Tenure (Months),11.4
+Early Churn (<3 months),0.252
